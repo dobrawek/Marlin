@@ -373,6 +373,7 @@
 #define BOARD_MKS_ROBIN_NANO_V3       4220  // MKS Robin Nano V3 (STM32F407VG)
 #define BOARD_ANET_ET4                4221  // ANET ET4 V1.x (STM32F407VGT6)
 #define BOARD_ANET_ET4P               4222  // ANET ET4P V1.x (STM32F407VGT6)
+#define BOARD_QIDI_XMAX               4223  // QIDI X-MAX board [chitu clone] (STM32F407ZE)
 
 //
 // ARM Cortex M7
