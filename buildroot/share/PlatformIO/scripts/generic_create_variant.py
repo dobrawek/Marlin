@@ -16,6 +16,9 @@ series = mcu_type[:7].upper() + "xx"
 variant_dir = os.path.join(FRAMEWORK_DIR, "variants", variant)
 
 source_dir = os.path.join("buildroot/share/PlatformIO/variants", variant)
+
+print(source_dir)
+
 assert os.path.isdir(source_dir)
 
 if not os.path.isdir(variant_dir):

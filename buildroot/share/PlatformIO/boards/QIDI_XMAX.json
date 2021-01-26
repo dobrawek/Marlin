@@ -8,7 +8,7 @@
       "arduino": "-DARDUINO_BLACK_F407ZE"
     },
     "mcu": "stm32f407zet6",
-    "variant": "BLACK_F407XX"
+    "variant": "QIDI_XMAX"
   },
   "connectivity": [
     "can"
